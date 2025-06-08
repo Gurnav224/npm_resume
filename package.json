@@ -1,5 +1,5 @@
 {
-  "name": "gurnav-resume",
+  "name": "@gurnav-chaudhary-55310a1a1/resume",
   "version": "1.0.7",
   "description": "Gurnav Chaudhary (LinkedIn: gurnav-chaudhary-55310a1a1) - Full Stack JavaScript Developer Resume",
   "keywords": [
@@ -18,7 +18,7 @@
   "type": "commonjs",
   "main": "index.js",
   "bin": {
-    "gurnav-resume": "index.js"
+    "@gurnav-chaudhary-55310a1a1/resume": "index.js"
   },
   "dependencies": {
     "chalk": "^4.1.2",

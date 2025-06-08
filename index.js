@@ -20,7 +20,7 @@ complex problems and contributing to impactful projects.`,
   workExperience: [
     {
       company: 'The MahaKumbhVatika',
-      duration: 'Dec 2024 - Present (1 year)',
+      duration: 'Dec 2024 - Mar 2025',
       achievements: [
         'Designed and developed the official Mahakumbh website using modern front-end technologies',
         'Built a robust booking system to handle guest bookings with secure data management',
