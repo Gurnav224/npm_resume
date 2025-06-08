@@ -2,14 +2,6 @@
   "name": "gurnav-resume",
   "version": "1.0.4",
   "description": "Gurnav Chaudhary (LinkedIn: gurnav-chaudhary-55310a1a1) - Full Stack JavaScript Developer Resume",
-  "main": "index.js",
-  "bin": {
-    "gurnav-resume": "./index.js"
-  },
-  "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "resume",
     "cv",
@@ -21,22 +13,21 @@
     "gurnav-chaudhary",
     "linkedin-gurnav-chaudhary-55310a1a1"
   ],
-  "author": {
-    "name": "Gaurav Kumar",
-    "email": "chaudharyg856@gmail.com",
-    "url": "https://github.com/your-github-username"
-  },
+
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/your-github-username/resume-package"
+  "author": "Gaurav Kumar <chaudharyg856@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "bin": {
+    "gurnav-resume": "index.js"
   },
-  "homepage": "https://github.com/your-github-username/resume-package#readme",
-  "engines": {
-    "node": ">=14.0.0"
-  },
+ 
   "dependencies": {
     "chalk": "^4.1.2",
     "boxen": "^5.1.2"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
