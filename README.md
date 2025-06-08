@@ -7,13 +7,13 @@
 You can run this package directly using npx without installing it globally:
 
 ```bash
-npx gaurav-resume
+npx gurnav-resume
 ```
 
 Or install it globally:
 
 ```bash
-npm install -g gaurav-resume
+npm install -g gurnav-resume
 ```
 
 Then run:
