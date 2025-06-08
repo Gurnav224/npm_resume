@@ -18,9 +18,6 @@ npm install -g gurnav-resume
 
 Then run:
 
-```bash
-gaurav-resume
-```
 
 ## What You'll See
 
